@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Compilación
+Debug/
+Release/
+x64/
+x86/
+out/
+build/
+
+# Archivos generados por Visual Studio
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+
+# Carpetas de compilación de proyectos
+[Bb]in/
+[Oo]bj/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
